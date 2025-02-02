@@ -1,1 +1,1 @@
-Using C++ this code calcuates weather you are a child, Teen, adult! It uses if else statement and also uses switch cases to check which age group you belong to.
+This Code consists of an age calculator that is coded in c++, It uses various IF statements and uses switch statements to select where you are a Child, Teen or an Adult!
